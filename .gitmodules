@@ -1,0 +1,6 @@
+[submodule "agent-android"]
+	path = agent-android
+	url = https://github.com/patriciamic/agent-android
+[submodule "agent-gateway"]
+	path = agent-gateway
+	url = https://github.com/patriciamic/agent-gateway
